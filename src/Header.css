@@ -1,0 +1,92 @@
+
+.outer_main{
+ background-color: #198e88;
+ 
+  position: relative;
+  top: 0;
+  z-index: 999;
+  width: 100%;
+}
+.tlogo {
+    width: 90%;
+    padding: 5% 10%;
+   float: left;
+    
+
+}
+
+img.img-fluid.clogo {
+
+     width: 250px;
+  
+}
+
+.header-name {
+    color: black;
+    }
+
+
+
+
+
+
+/*
+.header-cts-logo {
+    float: left;
+}
+.header-telstra-logo {
+    float: right;
+}
+
+.header-name {
+    color: white;
+    /*margin-top: 7px;
+    margin-left: 13%;*/
+    /*position: top;*/
+    /*font-size-adjust: 10px;*/
+/*
+
+}
+
+.dropdown-profile {
+    padding-right: 0;
+    padding-left: 0;
+    text-align: center;
+}
+
+.dropdown-color {
+    padding-left: 10px;
+}
+.dropdown-color:hover {
+    background: dodgerblue;
+    color: white;
+}
+
+.profile {
+    background: transparent;
+    margin-top: 0;
+    padding-left: 0;
+    color: white;
+}
+.profile:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.list-decoration {
+    text-decoration: none !important;
+    display: block;
+}
+
+.btn-center {
+    position: relative;
+    left: 10%;
+    text-align: center;
+}
+
+
+
+
+
+*/
+
